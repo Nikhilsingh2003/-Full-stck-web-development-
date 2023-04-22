@@ -11,4 +11,9 @@ HTML -->basic building block  or skeleton of website similar to amny building
     ----
 Tag--> it  tell browsers  how to render different elements .
 
- 
+      ------|---------------------------------------|-----
+     |  <h1>|This is my first step in learning fswd |</h1> | ------>element 
+     -------|---------------------------------------|-----
+     -------|                                       |-->closing tags 
+        |---> opening tags 
+        
