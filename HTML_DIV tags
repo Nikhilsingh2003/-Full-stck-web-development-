@@ -10,3 +10,18 @@
     <div id="cheems"> Hello i am nikhil singh </div>
   </body>
 </html>
+
+------
+<!DOCTYPE>
+<html>
+  <body>
+    <style>
+      #cheems
+      {
+        color:skyblue;
+      }
+    </style>
+    <div id="cheems"> Hello i am nikhil singh </div>
+    <a href="https://www.thecodehelp.in"> read more</a>
+  </body>
+</html>
