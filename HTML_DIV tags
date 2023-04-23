@@ -25,3 +25,26 @@
     <a href="https://www.thecodehelp.in"> read more</a>
   </body>
 </html>
+
+
+----
+img tag 
+------
+<!DOCTYPE html>
+<html>
+  <body>
+    <ol>
+      <h1>Programming langauge</h1>
+      <li>C++</li>
+      <li>Javascript</li>
+      <li>Java</li>
+    </ol>
+    <ul>
+      <h2> hello world </h2>
+      <li>kya </li>
+      <li>hua </li>
+      <li>bro </li>
+    </ul>
+    <img src="x95.jpg" width="200" height="200" alt="marcos with  IWI tavor x95">
+  </body>
+</html>
