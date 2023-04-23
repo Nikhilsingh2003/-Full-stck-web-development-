@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html>
+  <body>
+    <style>
+      #cheems
+      {
+        color:skyblue;
+      }
+    </style>
+    <div id="cheems"> Hello i am nikhil singh </div>
+  </body>
+</html>
