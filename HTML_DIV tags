@@ -45,6 +45,11 @@ img tag
       <li>hua </li>
       <li>bro </li>
     </ul>
-    <img src="x95.jpg" width="200" height="200" alt="marcos with  IWI tavor x95">
+    <dl>
+      <h3> description list</h3>
+      <li>nikhil</li>
+      <li>singh</li>
+    </dl>
+    <img src="x95.jpg" width="300" height="200" alt="marcos with  IWI tavor x95">
   </body>
 </html>
